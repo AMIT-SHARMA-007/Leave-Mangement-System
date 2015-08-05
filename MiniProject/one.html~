@@ -1,0 +1,23 @@
+<html>
+
+	<head>
+		<title> Css  </title>
+		<style type="text/css">
+		p:{
+			color:blue;
+			font-family:arial;
+			
+	
+		}
+		</style>
+	</head>
+	
+	<body>
+	SImple text
+	<p>
+	coloured text
+	</p>
+	</body>
+
+
+</html>
